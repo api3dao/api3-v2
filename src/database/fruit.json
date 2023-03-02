@@ -9,6 +9,14 @@
   },
   {
     "kind":  "apple",
+    "name": "granny smith two",
+    "colour": "red",
+    "grower": "Wesgro",
+    "sweetness": "sweetest",
+    "image": "https://cdn.shopify.com/s/files/1/0137/3683/7220/products/RedDelicious_800x.jpg?v=1621018010"
+  },
+  {
+    "kind":  "apple",
     "name": "molly",
     "colour": "green",
     "grower": "Wesgro",
